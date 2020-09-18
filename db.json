@@ -1,0 +1,32 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "Burger",
+      "price": 30,
+      "count": 2,
+      "isInCart": false
+    },
+    {
+      "id": 3,
+      "name": "Pizza",
+      "price": 20,
+      "count": 2,
+      "isInCart": false
+    },
+    {
+      "id": 4,
+      "name": "water",
+      "price": "30",
+      "count": 0,
+      "isInCart": false
+    },
+    {
+      "id": 5,
+      "name": "burgar large",
+      "price": "80",
+      "count": 0,
+      "isInCart": false
+    }
+  ]
+}
